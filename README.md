@@ -18,3 +18,4 @@ A lightweight web scraper built with Python to extract job data from the Fake Py
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+   https://roadmap.sh/projects/job-listings-scraper
